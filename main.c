@@ -83,7 +83,7 @@ int main(int argc, char **argv)
 
   ui_init();
 
-  v_label_set_text(ui_Label_Celsius, "35°");
+  lv_label_set_text(ui_Label_Celsius, "35°");
 
   while(1) {
       /* Periodically call the lv_task handler.
