@@ -1,4 +1,5 @@
-# Seeed_reTerminal_LVGL_UI_Demo
+# Seeed_reTerminal_LVGL_UI_Demo test
+
 Demo code for sample reTerminal UI application, written in C with LVGL 8.0
 
 <p align="center">
@@ -7,10 +8,9 @@ Demo code for sample reTerminal UI application, written in C with LVGL 8.0
 
 For more details, visit [Seeed Wiki](https://wiki.seeedstudio.com/reTerminal-build-UI-using-LVGL/)
 
-
 ## Requirements
 
-* **SDL** a low level driver library to use graphics, handle mouse, keyboard etc.
+- **SDL** a low level driver library to use graphics, handle mouse, keyboard etc.
 
 ## Usage
 
@@ -43,6 +43,7 @@ The following steps can be used with CMake on a Unix-like system.
 6. The binary will be in `../bin/main`, and can be run by typing that command.
 
 ## Contributing
+
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
